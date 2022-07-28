@@ -1,0 +1,44 @@
+.namer {
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.viewer {
+  display: inline-block;
+  width: 210px;
+  height: 150px;
+  border: 1px solid black;
+  padding: 5px;
+  margin-bottom: 25px;
+  align-items: center;
+}
+
+.output {
+  width: 450px;
+  text-align: center;
+  font-size: 2em;
+}
+button {
+  padding: 10px;
+  text-align: center;
+  width: 450px;
+}
+.dicer {
+  width: 90px;
+  height: 90px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  text-align: center;
+  padding-top: 2px;
+}
+.black {
+  background-color: black;
+}
+.dot {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  display: inline-block;
+}
